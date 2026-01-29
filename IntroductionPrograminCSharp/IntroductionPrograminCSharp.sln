@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancePolimorphism", "InheritancePolimorphism\InheritancePolimorphism.csproj", "{87650498-E353-9A4F-6C4E-98380DE38219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87650498-E353-9A4F-6C4E-98380DE38219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87650498-E353-9A4F-6C4E-98380DE38219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87650498-E353-9A4F-6C4E-98380DE38219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87650498-E353-9A4F-6C4E-98380DE38219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC6D5B7-5462-4F6D-B856-67E54D1E880D}
+	EndGlobalSection
+EndGlobal

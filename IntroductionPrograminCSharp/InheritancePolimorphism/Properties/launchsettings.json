@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsolaApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--modo debug",
+      "workingDirectory": "$(ProjectDir)",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
